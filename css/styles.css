@@ -3,8 +3,8 @@
   --surface: #151a21;
   --text: #e7ebf0;
   --muted: #a9b3c1;
-  --primary: #62a1ff;
-  --accent: #7d5fff;
+  --primary: #ff000d;
+  --accent: #ff0051;
   --border: #232a34;
   --success: #3ddc97;
   --error: #ff6b6b;
@@ -15,8 +15,8 @@
   --surface: #f7f9fc;
   --text: #111318;
   --muted: #4b5565;
-  --primary: #2952ff;
-  --accent: #5b34ff;
+  --primary: #ff293e;
+  --accent: #ff293e;
   --border: #e3e8ef;
 }
 
